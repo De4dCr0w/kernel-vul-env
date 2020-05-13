@@ -68,7 +68,7 @@ set softtabstop=4
 "mouse related
 """
 " enable mouse
-set mouse=a
+" set mouse=a
 
 
 """
